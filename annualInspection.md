@@ -1,6 +1,6 @@
 # Annual Safety Inspection
 
-Below procedures should be conducted annually in lab, (usually in November).
+Below procedures should be conducted annually in lab (usually in November).
 
 * Review and update training history for lab personnel. See [ISU safety training curriculum](https://www.ehs.iastate.edu/publications/handouts/labcurriculum.pdf) for required courses. Currently (updated in 2017 Nov), core rquired courses are: 
     * Laboratory Safety: Core Concepts (every 3 years)
