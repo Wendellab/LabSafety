@@ -6,7 +6,7 @@ See [EH&S](https://www.ehs.iastate.edu) for updates and the latest version of fo
 
 * [ISU Laboratory Safety Manual](http://www.ehs.iastate.edu/publications/manuals/labsm.pdf)
 * [Laboratory Standard Operating Procedures (SOP)](SOP/README.md)
-* [Waste disposal](wasteDisposal.md)
+* [Instruction for Waste disposal](wasteDisposal.md)
 * [Annual Laboratory Safety Inspection](annualInspection.md)
 
 ## Safety Training
