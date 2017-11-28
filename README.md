@@ -4,7 +4,11 @@ This is a working copy for materials on [the Wendel Lab Internal Site] (https://
 ## General Information
 See [EH&S](https://www.ehs.iastate.edu) for updates and the latest version of forms.
 
+* [ISU Laboratory Safety Manual](http://www.ehs.iastate.edu/publications/manuals/labsm.pdf)
+* [Laboratory Standard Operating Procedures (SOP)](SOP/README.md)
+* [Waste disposal](wasteDisposal.md)
+* [Annual Laboratory Safety Inspection](annualInspection.md)
 
 ## Safety Training
 
-* [Laboratory Check-in and Check-out](checkInOut.md)
+* [Laboratory orientation for new member and the check-out procedure](checkInOut.md)
