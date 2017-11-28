@@ -11,4 +11,3 @@ See [EH&S](https://www.ehs.iastate.edu) for updates and the latest version of fo
 * [Laboratory orientation for new member and the check-out procedure](checkInOut.md)
 * [Instruction for Waste disposal](wasteDisposal.md)
 * [Laboratory Standard Operating Procedures (SOP)](SOP/README.md)
-* [Information about Emergency Management](emergency.md)
