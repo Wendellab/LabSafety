@@ -7,6 +7,7 @@
 
 ## Specific Chemicals
 
-## Specific Equipment 
+## Specific Equipment
+* [Eyewash flushing](SOP/EyewashFlushing.pdf)
 
 ## Specific Procedure
